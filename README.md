@@ -1,6 +1,6 @@
-# Лабораторна робота 2. Шарова архітектура та доменна модель
+﻿# Лабораторна робота 2. Шарова архітектура та доменна модель
 
-![tests](https://github.com/Callibri/lab2/actions/workflows/tests.yml/badge.svg)
+![tests](https://github.com/Callibri/lab2_KPI/actions/workflows/tests.yml/badge.svg)
 
 Рефакторинг лабораторної 1: бізнес-логіка винесена в доменну модель, проєкт розділений на чотири шари. API не змінився.
 
